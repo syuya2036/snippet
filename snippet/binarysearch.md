@@ -14,4 +14,7 @@ while right - left > 1:
 		left = mid
 print(right)
 ```
+## bisect
 
+bisect_left(A, i)で，Aのソート状態を崩さずにiを挿入することができるインデックスのうち最も左のもの．
+[1, 2 , 3, 3, 4],3を渡すと2が返ってくる．
