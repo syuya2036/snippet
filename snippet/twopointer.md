@@ -23,3 +23,5 @@ for x in X:
 
     print(ans)
 ```
+
+https://qiita.com/keroru/items/6e0a22e8c9bf2a24dc68
