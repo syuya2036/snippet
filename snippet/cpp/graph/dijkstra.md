@@ -40,3 +40,5 @@ int main() {
     }
 }
 ```
+
+- [AC](https://atcoder.jp/contests/tessoku-book/submissions/56097069)
